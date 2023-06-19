@@ -1,0 +1,24 @@
+
+# Arquivos gerados pelo compilador TypeScript
+dist/
+build/
+
+# Dependências instaladas
+node_modules/
+
+# Arquivo de configuração do TypeScript
+tsconfig.json
+
+# Arquivo de configuração do editor (ex: Visual Studio Code)
+.vscode/
+
+# Arquivos de ambiente (se você usa variáveis de ambiente)
+.env
+.env.local
+.env.*.local
+
+# Arquivos de log e saída
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
